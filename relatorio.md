@@ -1,15 +1,13 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - iggypjl
 
-**Data:** 20/05/2025 17:47
+**Data:** 20/05/2025 18:17
 
-**Nota Final:** `70.56/100`
+**Nota Final:** `79.44/100`
 **Status:** ✅ Aprovado
 
 ---
 ## ✅ Requisitos Obrigatórios (80%)
-- Foram encontrados `2` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
-  - ⚠️ **Falhou no teste**: `test_base.py::test_navbar_present`
-    - **Melhoria sugerida**: A navbar com Bootstrap não foi encontrada. Utilize as classes 'navbar' corretamente.
+- Foram encontrados `1` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
   - ⚠️ **Falhou no teste**: `test_base.py::test_sections_exist`
     - **Melhoria sugerida**: Uma ou mais seções obrigatórias estão ausentes. Verifique se usou os IDs: apresentacao, habilidades, aprendizado, contato.
 
