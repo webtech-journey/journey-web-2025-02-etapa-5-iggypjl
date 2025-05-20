@@ -1,1 +1,42 @@
+body {
+  scroll-behavior: smooth;
+  font-family: Arial, sans-serif;
+}
 
+header {
+  background-color: #0d6efd;
+  color: white;
+  padding: 2rem 0;
+}
+
+.foto-perfil {
+  max-width: 150px;
+  border-radius: 100%;
+}
+
+section {
+  padding: 3rem 1rem;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  text-align: center;
+}
+
+.text-purple {
+  color: #6f42c1;
+}
+
+.row {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  gap: 30px; 
+}
+ .foto-perfil{
+   width: 140px;
+   height: 140px;
+   justify-content: center;
+  
+ }
